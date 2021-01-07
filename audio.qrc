@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>audio/500hz.wav</file>
+        <file>audio/warning.wav</file>
+        <file>audio/treat.wav</file>
+        <file>audio/SW001_8_Bit_Games_191_Pickup_Coin.wav</file>
+        <file>audio/sine2k.wav</file>
+        <file>audio/sci_fi_beep_off.wav</file>
+        <file>audio/rm1200hz.wav</file>
+        <file>audio/rm1000hz.wav</file>
+        <file>audio/rm950hz.wav</file>
+        <file>audio/rm900hz.wav</file>
+        <file>audio/rm800hz.wav</file>
+        <file>audio/rm700hz.wav</file>
+        <file>audio/rm600hz.wav</file>
+        <file>audio/rm500hz.wav</file>
+        <file>audio/rm400hz.wav</file>
+        <file>audio/rm350hz.wav</file>
+        <file>audio/rm300hz.wav</file>
+        <file>audio/rm200hz.wav</file>
+        <file>audio/range.wav</file>
+        <file>audio/longbeep.wav</file>
+        <file>audio/limit.wav</file>
+        <file>audio/handpiece.wav</file>
+        <file>audio/ding.wav</file>
+        <file>audio/clicksweeper.wav</file>
+        <file>audio/chime_up.wav</file>
+        <file>audio/button.wav</file>
+        <file>audio/beep_off_48_Rate.wav</file>
+        <file>audio/beep_off_22_sampling_rate.wav</file>
+        <file>audio/beep1.wav</file>
+        <file>audio/badbeep.wav</file>
+        <file>audio/acksound.wav</file>
+        <file>audio/2500_tone.wav</file>
+        <file>audio/600_tone.wav</file>
+        <file>audio/500_tone.wav</file>
+        <file>audio/400_tone.wav</file>
+        <file>audio/400_envelope.wav</file>
+        <file>audio/400_clipped_envelope.wav</file>
+        <file>audio/300_tone.wav</file>
+        <file>audio/20ms_400hz.wav</file>
+    </qresource>
+</RCC>
